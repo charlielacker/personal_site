@@ -1,9 +1,12 @@
-name: "my-website"
+name: "Idris Charlie Lacker"
 output_dir: docs
 navbar:
-  title: "My Website"
+  title: "Idris Charlie Lacker"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+output: 
+  html_document:
+    theme: journal
