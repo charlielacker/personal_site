@@ -5,7 +5,7 @@
 
 body {
     font-family: 'M PLUS 1p';
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
 }
 
@@ -14,21 +14,21 @@ title {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 35px;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 14px;
+  font-size: 16px;
   color: #5984b7;
   font-style: italic;
 }
 
 h4 {
-  font-size: 12px;
+  font-size: 14px;
   color: #767676;
   font-style: italic;
   line-height:0;
