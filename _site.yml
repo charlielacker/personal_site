@@ -7,6 +7,11 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+  right:
+    - href: https://github.com/charlielacker
+    - icon: fa-github 
+    - href: www.linkedin.com/in/charlie-lacker-b96931236
+    - icon: fa-linkedin
 output: 
   html_document:
     theme: journal
