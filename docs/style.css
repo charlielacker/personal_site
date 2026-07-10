@@ -31,10 +31,10 @@ a:hover {
 
   #header::before {
    content: "";
-   height: 150px;
-   width: 150px;
+   height: 175px;
+   width: 175px;
    float: right;
-   background-image: url("Brain.png");
+   background-image: url("brain_cropped.png");
    background-size: contain;
    background-position: center center;
    background-repeat: no-repeat;
