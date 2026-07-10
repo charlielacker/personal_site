@@ -16,5 +16,7 @@ navbar:
       icon: fa-linkedin
 output: 
   html_document:
+    includes: 
+      in_header: header.html
     theme: journal
     css: style.css

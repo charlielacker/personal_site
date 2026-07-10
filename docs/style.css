@@ -10,6 +10,14 @@ body {
     font-weight: 400;
 }
 
+title {
+  font-size: 50px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
 h2 {
   font-size: 18px;
 }
