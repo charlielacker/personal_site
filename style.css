@@ -10,3 +10,12 @@ body {
     font-weight: 400;
 }
 
+/* links */
+a { 
+  color: #5ebccf;
+}
+
+a:hover {
+ color: #50a0b0; /* darker color when hovering */
+}
+
