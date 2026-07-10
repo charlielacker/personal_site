@@ -29,3 +29,13 @@ a:hover {
  color: #50a0b0; /* darker color when hovering */
 }
 
+#header.fluid-row::before {
+   content: "";
+   height: 150px;
+   width: 150px;
+   float: right;
+   background-image: url("brain.png");
+   background-size: contain;
+   background-position: center center;
+   background-repeat: no-repeat;
+ }
