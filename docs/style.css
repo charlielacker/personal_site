@@ -16,17 +16,24 @@ h2 {
 
 h3 {
   font-size: 14px;
-  color: black;
+  color: #5984b7;
   font-style: italic;
+}
+
+h4 {
+  font-size: 12px;
+  color: #767676;
+  font-style: italic;
+  line-height:0;
 }
 
 /* links */
 a { 
-  color: #5ebccf;
+  color: #6fadf7;
 }
 
 a:hover {
- color: #50a0b0; /* darker color when hovering */
+ color: #5984b7; /* darker color when hovering */
 }
 
   #header::before {

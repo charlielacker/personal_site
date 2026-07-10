@@ -1,5 +1,58 @@
 ---
-title: "experience"
-output: html_document
+title: "Experience"
 ---
+
+\
+
+# Research Experience
+## **MSc Thesis** | Validation of a Post-Stroke Cognitive Assessment in fMRI
+### Ongoing
+#### Supervised by Professors Hans Op de Beeck, Celine Gillebert, and PhD student Emma Goris
+Developed a literature review on the five cognitive domains assessed; assisted with fMRI data collection; used MATLAB to run data analyses; findings to be expressed in the form of a written article; will complete an oral defense. 
+
+\
+
+## BA Independent Honors Thesis | Autistic Traits and Gender Identity
+#### Supervised by Professors Gilian Tenbergen and Karin Wolford
+Developed a literature review of research on autism and gender identity; identified knowledge gaps and formed hypotheses; constructed Qualtrics survey; created and maintained data spreadsheets; analyzed data in IBM SPSS; expressed findings in the form of a written article and oral presentation at the 2022 Quest Research Symposium.
+
+\
+
+## Research Assistant | Social Psychology Lab
+#### Supervised by Professor Adam Fay
+Created spreadsheets in Excel; analyzed archival exam data on clicker usage in lecture halls; followed inter-rater reliability protocols; developed hypotheses; utilized IBM SPSS for data analysis.
+
+\
+
+## Research Assistant | Cognitive Neuroscience Lab
+#### Supervised by Professor Sien Hu
+Obtained safety certification for fMRI usage at the University of Rochester; developed an experimental process for examining mental rotation.
+
+\
+
+## Research Assistant | Neuroendocrinology Lab
+#### Supervised by Professor Gilian Tenbergen
+Gathered literature overview of 2D:4D digit ratio; assessed literature and identified gaps in knowledge; collected data using hand scans and paper surveys; analyzed data using IBM SPSS; expressed results in the form of a written paper and oral presentation. 
+
+\
+
+# Leadership Positions
+
+## Teaching Assistant for Research Methods for the Psychological Sciences | SUNY Oswego
+Facilitated class discussions; held office hours; assisted students with lab work and questions; developed and ran review sessions.
+
+\
+
+## Queer and Trans Outreach Center
+Built and maintained a database of campus and community LGBTQ+ resources; facilitated group discussions and educational activities for students and faculty; planned and led workshops for faculty; worked with administration to develop school policy regarding gender neutral restrooms, preferred names, and faculty training initiatives.
+
+\
+
+## Children’s International Summer Villages (CISV)
+Participated in and facilitated various local, national, and international peace education programs; developed and ran educational activities about human rights, conflict resolution, sustainability, and diversity; managed planning groups; created guidelines and surveys to monitor policies and content across international chapters as a part of the Gender, Sexuality, and Romantic Diversity Inclusion (GSRDI) International Working Group; staffed a 2-week educational summer program for 12-13 year olds from 8 different countries.
+
+
+
+
+
 
