@@ -1,11 +1,10 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
 
  /*------------- Whole Document---------------- */
 
 body {
-    font-family: 'Nanum Gothic';
+    font-family: 'M PLUS 1p';
     font-size: 14px;
     font-weight: 400;
 }
