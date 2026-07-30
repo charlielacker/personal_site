@@ -4,7 +4,7 @@ title: "Projects"
 
 ## MSc Thesis | Validation of a Post-Stroke Cognitive Assessment in fMRI 
 ### Ongoing
-#### Supervised by Professors Hans Op de Beeck, Celine Gillebert, and PhD student Emma Goris
+#### Supervised by Professors Hans Op de Beeck and Celine Gillebert
 Developed a literature review on the five cognitive domains assessed; assisted with fMRI data collection; used MATLAB to run data analyses; findings to be expressed in the form of a written article; will complete an oral defense. 
 
 \

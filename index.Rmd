@@ -7,7 +7,7 @@ title: "Idris Charlie Lacker"
 
 Hello!
 
-I am a masters student at KU Leuven in the Psychology: Theory and Research program. My thesis aims to validate a post-stroke cognitive assessment that has been adapted for use in fMRI. This coming academic year, I will be working an internship with the psychology department here at KU Leuven, with a focus on numerosity and related decision making processes utilizing EEG and computational modelling.
+I am a masters student at KU Leuven in the Psychology: Theory and Research program. My thesis aims to validate a post-stroke cognitive assessment that has been adapted for use in fMRI. This coming academic year, I will be working on an internship with the psychology department here at KU Leuven, with a focus on numerosity and related decision making processes utilizing EEG and computational modelling.
 
 Next, I aim to pursue a PhD in Cognitive Neuroscience. My interests include learning and development, as well as perception, action, and decision making. I hope to continue using neuroimaging methods to investigate problems with real world impact. 
 
